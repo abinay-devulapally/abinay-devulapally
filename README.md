@@ -13,7 +13,7 @@
 <br>
 
 - Pursuing a Master's degree in Information Technology at the University of Cincinnati, USA.
-- Over 3+ years of experience in developing and deploying cloud solutions, managing containerized applications, and automating deployments, with a focus on enhancing system performance and efficiency.
+- Over 3+ years of experience in developing and deploying Cloud and DevOps solutions, managing containerized applications, and automating deployments, focusing on enhancing system performance and efficiency.
 - Proficient in Azure, AWS, and OpenStack cloud solutions.
 - I am currently seeking internship and full-time job opportunities in the USA.
 - Linkedin website [link](https://www.linkedin.com/in/abinay-kumar/)
@@ -32,7 +32,7 @@ Fun Fact: If Bill Gates had a penny for every time Windows crashed... oh wait, h
 
 <p align="center">
 
-- **Languages**:
+- **Languages/Database Tools**:
   ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   ![Java](https://img.shields.io/badge/Java%20-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -52,7 +52,7 @@ Fun Fact: If Bill Gates had a penny for every time Windows crashed... oh wait, h
 
 <br>
 
-- **Frameworks**:
+- **Web Frameworks**:
 
   ![Express.js](https://img.shields.io/badge/Express.js%20-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
   ![Flask](https://img.shields.io/badge/Flask%20-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
