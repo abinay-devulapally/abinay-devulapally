@@ -14,7 +14,7 @@
 
 <br>
 
-- Pursuing a Master's degree in Information Technology at the University of Cincinnati, USA.
+- Pursuing a Master's degree at the University of Cincinnati, USA.
 - Over 3+ years of experience in developing and deploying Cloud and DevOps solutions, managing containerized applications, and automating deployments, focusing on enhancing system performance and efficiency.
 - Proficient in Azure, AWS, and OpenStack cloud solutions.
 - I am currently seeking internship and full-time job opportunities in the USA.
